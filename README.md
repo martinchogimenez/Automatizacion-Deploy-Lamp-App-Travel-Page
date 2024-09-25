@@ -14,7 +14,7 @@ Instrucciones de Uso
 
 Clona el repositorio:
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/martinchogimenez/Automatizacion-Deploy-Lamp-App-Travel-Page.git
 
 cd tu-repo
 
@@ -30,7 +30,7 @@ Detalles del Script
 
 Variables:
 
-REPO: Nombre del repositorio (bootcamp-devops-2023 en este caso).
+REPO: bootcamp-devops-2023
 
 USERID: ID del usuario actual.
 
